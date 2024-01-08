@@ -8,6 +8,7 @@ function bot(){
     e.style.backgroundColor = "rgb(0, 186, 0)"
     a.style.backgroundColor = "rgb(0, 186, 0)"
     d.style.backgroundColor = "rgb(0, 186, 0)"
+    
     if (areas[0].checked) {
         p.style.backgroundColor = "red"
     }
@@ -16,7 +17,8 @@ function bot(){
     }
     if (areas[2].checked){
         a.style.backgroundColor = "red"
-    }if (areas[3].checked){
+    }
+    if (areas[3].checked){
         d.style.backgroundColor = "red"
     }
 }
