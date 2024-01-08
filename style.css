@@ -40,6 +40,11 @@ nav label{
     white-space: nowrap; /*para nao quebrar*/
 }
 
+main h2{
+    margin-top: 40px;
+    text-align: center;
+}
+
 /*tags de arrumar o codigo*/
 section{
     margin-top: 30px;
